@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### Olá! Eu sou o Eduardo Czpla, desenvolvedor FullStack 😅
+### Olá! Eu sou o Eduardo Czpla, Engenheiro de Software 😅
   
 </div>
 
