@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### Olá! Eu sou o Eduardo Czpla, Engenheiro de Software 😅
+### Hello! I'm Eduardo Czpla, Software Engineer 😅
   
 </div>
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   ##
  
 <div align = 'center'>
-  <h3>Como falar comigo? 🤔</h3>
+  <h3>How to talk to me? 🤔</h3>
   <a href = "mailto:edu.czpla@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/czpla" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
