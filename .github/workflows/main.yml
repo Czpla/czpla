@@ -2,8 +2,7 @@ name: Generate animation
 
 on:
   schedule:
-    # - cron: "0 */24 * * *" 
-    - cron: "*/1 * * * *"
+    - cron: "0 */24 * * *" 
     
 jobs:
   generate:
