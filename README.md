@@ -59,8 +59,9 @@ Here are some ideas to get you started:
   <a href = "mailto:edu.czpla@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/czpla" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
-   ![Snake animation](https://github.com/Czpla/czpla/blob/output/github-contribution-grid-snake.svg)
+   //![Snake animation](https://github.com/Czpla/czpla/blob/output/github-contribution-grid-snake.svg)
 
+<p>teste</p>
    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Czpla/czpla/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Czpla/czpla/output/github-snake.svg" />
