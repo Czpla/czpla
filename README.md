@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### Hello! I'm Eduardo Czpla, Software Engineer 😅
+### Hello! I'm Eduardo Czpla, Senior Software Engineer 😅
   
 </div>
 
