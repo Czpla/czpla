@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-
-### Hello! I'm Eduardo Czpla, Senior Software Engineer 😅
-  
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=250&color=F7F7F7&center=true&vCenter=true&width=635&lines=Hi+%F0%9F%91%8B%2C+I'm+Eduardo+Czpla,+Senior+Software+Engineer." alt="Typing SVG" /></a>
+</p>
 
 ---
 
